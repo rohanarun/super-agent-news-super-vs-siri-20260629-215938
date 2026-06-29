@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[cryptobriefing.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBuLXRJc19tNllvUzJrVlFmaVd4ckpBdUhhNFgyZXBycmlKTGJ2V2NyYUlFX3VManpuQW9ncXZtOFFhbmxWTHh2LXhjMWJKcDZaN1h4RS1UcE90aDlJeGpDY3pzMGg5UjhBd3AwQ3Y3QmFrTjVha0xZbmhQZw?oc=5)",
+    "[tomsguide.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelV1SjdMMXhEaF9zTmgtbnVtZUxGeE5vM3o1eHZOOXNTNW55Y1hnQnF1ak1uV2IwcDJLZHFfSFZ0NmdOaHJxN204anlEM09oMm1FTUJaMzAyWEF3V0N1eEp4QjZvRFpsZ3hCRzN3WlhOQXhDY08tck9LR3lUcXdfVVJhb0RzX0pqdnY4OVdFM05BUHJUNks0WjZWR0pUb3VSZmFMVTJENXdoMVI5X0NJR2NpbERCdzBoM1dUd1hEWUpXcC13akVSc2N3OWJRZHlWQWJCR01R?oc=5)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnNFZ2I1V1QxRGo2RFJ4eFNDeGZ6R0JmXy1BOEJzZmROT2haQnZOSFM3TDFDdldkS0NTX2Qzc1lTYzE1NnFpYjJXaGtYOGd5SGJaVTllMk5vUzEzSzhCYmlJVVBCSnJUNEZNbTJHcTFxbjY4VU1zQTQwNnFGUmVvbm1UbTlhY1J2Q2c?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5)",
+    "[bwbusinessworld.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k2YWR0UUZValVWRTMybEFDOHptU3RETnFDOFJhaEV4VzlSQnlwZTRPUjFZcDFVLXR0NVlPNnF3ME1wTnhZQXJtcWt4WEoweFJKaG50ZG11bmVYMml6MV92RlluWW83UEJMUkIyWm1zTW5aUWRMQzQ5aG1CemNOSGp0M2QwTlhpOVVscENLOC16YVNSdFBYbUZodFBlLS1xZ05RR0tiLWl4dEpKQTVIQ1RGN290WEkybHZQN1NvdmJFUS1sTHc?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero width math=1120px for 2\u20133 lines; bento density verified via grid-auto-flow:dense; label sweep includes Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast checked on paper/ink; GSAP guarded.",
+  "generated_at": "2026-06-29T21:59:45.268443+00:00",
+  "headline": "Super vs Siri \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair comparison for people deciding between Apple\u2019s voice\u2011first Siri and Super\u2019s computer\u2011operating personal AI agents. Siri shines inside the Apple ecosystem; Super is built for repeated computer\u2011use workflows with a reusable computer-use cache."
+}
